@@ -33,6 +33,7 @@ color: hsla(0, 0%, 100%, 0.75);
 section:nth-child(1)
 {
     background-color: hsl(31, 77%, 52%);
+    border-radius: 10px 0 0 10px;
 }
 section:nth-child(2)
 {
@@ -41,6 +42,7 @@ section:nth-child(2)
 section:nth-child(3)
 {
     background-color: hsl(179, 100%, 13%);
+    border-radius: 0 10px 10px 0;
 }
 button
 {
