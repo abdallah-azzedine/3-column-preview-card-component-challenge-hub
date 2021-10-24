@@ -95,11 +95,7 @@ h1
     padding-top: 50px;
 
 }
-section
-{
-    
-    border-radius: 0;
-}
+
 
 section:nth-child(1)>button:hover
 {
@@ -126,6 +122,11 @@ section:nth-child(3)>button:hover
     width: 374px;
     height: auto;
     grid-template-columns: 374px;    
+}
+    section
+{
+    
+    border-radius: 0;
 }
 img
 {
