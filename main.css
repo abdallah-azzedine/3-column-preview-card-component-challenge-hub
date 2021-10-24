@@ -123,10 +123,16 @@ section:nth-child(3)>button:hover
     height: auto;
     grid-template-columns: 374px;    
 }
-    section
+  section:nth-child(1)
 {
     
-    border-radius: 0;
+    border-radius: 0 ;
+}
+
+section:nth-child(3)
+{
+   
+    border-radius: 0 ;
 }
 img
 {
